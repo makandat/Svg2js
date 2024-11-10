@@ -1,1 +1,1 @@
-# SVG library writtern in JavaScript
+# SVG library written in JavaScript
